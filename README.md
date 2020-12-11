@@ -1,9 +1,6 @@
 # Vulkan SDK C++ Starter Project
 
 ### Dependiencies
-
-[CMake 3.13.4](https://cmake.org/files/v3.13/cmake-3.13.4-Linux-x86_64.tar.gz) version is minimum required.
-
 #### Linux command (Ubuntu)
 ```
   sudo apt-get install libglm-dev cmake libxcb-dri3-0 libxcb-present0 libpciaccess0 \
